@@ -77,3 +77,11 @@ newbutton.style.color="white";
 
 let body=document.querySelector("body");
 body.prepend(newbutton);
+
+
+function add(a,b){
+    return a+b;
+}
+
+let ans=add(2,3);
+console.log(typeof());
