@@ -1,5 +1,5 @@
 // onclick event
-let button=document.querySelector("#button");
+/*let button=document.querySelector("#button");
 button.onclick=function(){
     console.log("button is clicked");  // overwritten
 }
@@ -24,7 +24,7 @@ button.addEventListener("click",function(vevent){
 button.onmouseover=function(){
     button.style.color="red";
     console.log("mouseover done");
-}
+}*/
 
 
 // event.target and event.currentTarget
